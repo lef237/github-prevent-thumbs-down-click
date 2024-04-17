@@ -1,4 +1,4 @@
-# github-thumbs-down-remover
+# GitHub Prevent Thumbs Down Click
 
 This extension prevents you from accidentally pressing Thumbs Down.
 

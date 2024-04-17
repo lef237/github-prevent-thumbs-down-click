@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "GitHub Thumbs Down Remover",
+  "name": "GitHub Prevent Thumbs Down Click",
   "version": "1.0",
-  "description": "Removes the Thumbs Down reaction from GitHub",
+  "description": "This extension prevents you from accidentally pressing Thumbs Down.",
   "host_permissions": ["https://github.com/*"],
   "content_scripts": [
     {
